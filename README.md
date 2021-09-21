@@ -11,11 +11,11 @@ Before clicking on deploy to heroku just click on fork and star just below
 
 <p align="center">
   <a href="https://github.com/SenuGamerBoy/Jelly-VC-Music/fork">
-    <img src="https://img.shields.io/github/forks/tamilbots/tamilvcbot?label=Fork&style=social">
+    <img src="https://img.shields.io/github/forks/SenuGamerBoy/Jelly-VC-Music?label=Fork&style=social">
     
   </a>
   <a href="https://github.com/SenuGamerBoy/Jelly-VC-Music">
-    <img src="https://img.shields.io/github/stars/tamilbots/tamilvcbot?style=social">
+    <img src="https://img.shields.io/github/stars/SenuGamerBoy/Jelly-VC-Music?style=social">
   </a>
 </p>
 
