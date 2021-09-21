@@ -1,4 +1,4 @@
-# Tamil Voicechat UserBot
+# Jelly Voicechat UserBot
 
 A Telegram UserBot to Play music 🎶 in Voice Chats.
 
