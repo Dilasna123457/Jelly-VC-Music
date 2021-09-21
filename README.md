@@ -10,7 +10,7 @@ Use at your own risks..
 Before clicking on deploy to heroku just click on fork and star just below
 
 <p align="center">
-  <a href="https://github.com/tamilbots/SenuGamerBoy/Jelly-VC-Music/fork">
+  <a href="https://github.com/SenuGamerBoy/Jelly-VC-Music/fork">
     <img src="https://img.shields.io/github/forks/tamilbots/tamilvcbot?label=Fork&style=social">
     
   </a>
@@ -23,7 +23,6 @@ Before clicking on deploy to heroku just click on fork and star just below
 
  [![Run on Repl.it](https://camo.githubusercontent.com/05149b448485553c6f14f6430a45c12dcc79ed3c/68747470733a2f2f7265706c2e69742f62616467652f6769746875622f6a61727669733231303930342f4a6172766973)](https://replit.com/@SenuGamerBoy/Session-senuinfinity)
 
-<b> Deploy to Heroku </b>
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SenuGamerBoy/Jelly-VC-Music)
 
 - Enable the worker after deploy the project to Heroku
